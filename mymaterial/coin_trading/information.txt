@@ -1,0 +1,34 @@
+reference='https://docs.google.com/spreadsheets/d/1mrWQkviZEzC2Z906r3fLRZqSdj4z7KZhyhwpYs1EdHo/edit#gid=1025201251',
+trade={
+'name':'빗썸',
+'id':'pingonfefalas@gmail.com',
+'pw':'bkim1036125!',
+'결재비밀번호':'2486',
+'bank':'카카오뱅크'
+
+'name':'코빗'
+'id':'pingonfefalas@gmail.com',
+'pw':'kkim1036125!',
+'결재비밀번호': 2486,
+'bank':'none'
+
+'name':'코인원'
+'id':'pingonfefalas@gmail.com',
+'pw':'cKim1036125!',
+'결재비밀번호': 'none',
+'bank':'none'
+
+'name':'코인네스트'
+'id':'pingonfefalas@gmail.com',
+'pw':'cKim1036125! or cKim1036125',
+'결재비밀번호': 'Kim1036125!',
+'bank':'none'
+},
+
+exchange={
+	'kraken':{
+	'id':'pingonfefalas@gmail.com',
+	'pw':'kkim1036125!'
+	}
+}
+
